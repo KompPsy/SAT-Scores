@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SAT_Scores.dir/main.cpp.o  -o SAT_Scores 
